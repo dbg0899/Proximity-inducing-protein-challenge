@@ -1,0 +1,9 @@
+receptor = /Users/danib/Desktop/challenge/receptors/receptor_1_clean.pdbqt
+center_x = 6.61
+center_y = -3.18
+center_z = -6.90
+size_x = 20
+size_y = 20
+size_z = 20
+exhaustiveness = 8
+num_modes = 20
